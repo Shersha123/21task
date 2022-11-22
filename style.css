@@ -1,0 +1,27 @@
+h1{
+    /* background-color: aqua; */
+    color:chartreuse;
+    font-size: 100px;
+    text-align: center;
+   /* width:500px; */
+
+}
+div{
+    text-align: center;
+    height:30px;
+}
+input{
+    height:50px;
+    width:300px;
+    border: 2px dotted brown;
+    border-radius: 10px;
+}
+button{
+    height:50px;
+    width:100px;
+    border: 2px dotted white;
+    border-radius: 150px;
+}
+body{
+    background-image: url(https://www.brookings.edu/wp-content/uploads/2020/04/AdobeStock_332298426.jpeg)
+}
